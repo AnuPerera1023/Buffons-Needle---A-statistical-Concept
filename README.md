@@ -1,0 +1,2 @@
+# Buffons-Needle---A-statistical-Concept
+Buffon's Needle Problem is a classic probability experiment where a needle is randomly dropped onto parallel lines to estimate π. It demonstrates geometric probability, randomness, and Monte Carlo simulation methods used in statistics and mathematical modeling.
